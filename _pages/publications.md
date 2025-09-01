@@ -134,8 +134,8 @@ Reinforcement Learning,</em> <br />
     <p>
       Haoyi Zhou, Jianxin Li*, Shanghang Ji, Shuai Zhang, <b>Mengyi Yan</b>, Hui Xiong, <br />
       <em>Expanding the Prediction Capacity in Long Sequence Time-Series Forecasting,</em><br />
-      Artificial Intelligence Journal(IF=4.6, CCF-A)
-      <a href="https://doi.org/10.101j.artint.2023.103886">[Paper]</a>
+      Artificial Intelligence Journal(IF=4.6, CCF-A, the extension journal version of AAAI'21 Best Paper Informer)
+      <a href="https://authurlord.github.io/files/Journal/Informer-AIJ.pdf">[Paper]</a>
     </p>
   </li>
 </ul>

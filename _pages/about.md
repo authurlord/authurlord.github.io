@@ -22,7 +22,7 @@ I am Mengyi Yan,
 currently is the assistant Professor at School of Artificial Intelligence, Shandong University.
 In Jun. 2025, I received my Ph.D. degree at [the School of Computer Science and Engineering, Beihang University](https://scse.buaa.edu.cn/) (BUAA), under the supervision of [Prof. Jianxin Li](https://scse.buaa.edu.cn/info/1546/10597.htm). 
 Before that, I received my bachelor degree at [the School of Mathematical Science, Beihang University](https://math.buaa.edu.cn/) (BUAA) in 2017.
-My work focuses on Database, Data Quality, Data Cleaning, and AI4DB with LLM. I welcome collaborations and discussions—feel free to reach out via email.
+My work focuses on Database, Data Quality, Data Cleaning, and AI4DB with LLM. I welcome collaborations and discussions—feel free to reach out via email yanmy@sdu.edu.cn; yanmy1008@buaa.edu.cn; or yanmy1008@gmail.com.
 
 
 <h2 style="color: black;">News</h2>

@@ -106,8 +106,10 @@ My research focuses on evaluating and optimizing synthetic data for Large Langua
 -->
 # Talks
 MELD: Efficient Mixture of Experts based on LLM for Low-Resource Data Preprocessing
-  * KDD conference, August 2023, Barcelona, Spain
+  * KDD conference, August 2024, Barcelona, Spain
+
+
 # External Reviewer
 KDD, NIPS, NeurIPS, ICLR, AAAI, ICDE, etc
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=IIeiKN1u2zOsBZQW8arVO6mxmIYr2RYzS4qPg0B1Yvs&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=100&t=n&d=IIeiKN1u2zOsBZQW8arVO6mxmIYr2RYzS4qPg0B1Yvs'></script>

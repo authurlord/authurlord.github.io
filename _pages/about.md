@@ -27,10 +27,9 @@ My work focuses on Database, Data Quality, Data Cleaning, and AI4DB with LLM. I 
 
 <h2 style="color: black;">News</h2>
 <ul style="list-style-type:disc; padding-left: 0; margin-left: 0;height: 400px;overflow: hidden;overflow-y: scroll;"> 
-<li><span class="badge bg-success">AUG 2025</span> Our  <a href="https://authurlord.github.io/files/Conference/PUER_EMNLP.pdf">PUER: Boosting Few-shot Positive-Unlabeled Entity Resolution with Reinforcement Learning</a> conference paper was accepted by <b>EMNLP 2025</b> as a finding paper. </li>
-<li><span class="badge bg-success">JUN 2025</span> Our  <a href="https://authurlord.github.io/files/Journal/FUSER_FCS.pdf">Towards uncertainty-calibrated structural data enrichment with large language model for few-shot entity resolution</a> journal paper was accepted by <b>Frontiers of Computer Science, 2025</b>. </li>
-<li><span class="badge bg-success">DEC 2024</span> Our  <a href="https://authurlord.github.io/files/Conference/UEADB_BigData.pdf">Unsupervised Domain Adaptation for Entity
-Blocking Leveraging Large Language Models</a> conference paper was accepted by <b>IEEE Big Data, 2024</b>. </li>
+<li><span class="badge bg-success">AUG 2025</span> Our  <a href="https://authurlord.github.io/files/Conference/PUER_EMNLP.pdf">PUER: Boosting Few-shot Positive-Unlabeled Entity Resolution with Reinforcement Learning</a> paper was accepted to <b>EMNLP 2025</b>. </li>
+<li><span class="badge bg-success">JUN 2025</span> Our  <a href="https://authurlord.github.io/files/Journal/FUSER_FCS.pdf">Towards uncertainty-calibrated structural data enrichment with large language model for few-shot entity resolution</a> paper was accepted to <b>Frontiers of Computer Science, 2025</b>. </li>
+<li><span class="badge bg-success">DEC 2024</span> Our  <a href="https://authurlord.github.io/files/Conference/UEADB_BigData.pdf">Unsupervised Domain Adaptation for Entity Blocking Leveraging Large Language Models</a> paper was accepted to <b>IEEE Big Data 2024</b>. </li>
 </ul>
 
 # Selected Publications
@@ -44,13 +43,7 @@ Blocking Leveraging Large Language Models</a> conference paper was accepted by <
 
 **Mengyi Yan**, Weilong Ren*, Yaoshu Wang, and Jianxin Li*, A Retrieval-Augmented Framework for Tabular Interpretation with Large Language Model, *Database Systems for Advanced Applications (DASFAA)*, 2024. [Link](https://github.com/SICS-Fundamental-Research-Center/RAFL/blob/master/supplementary/DASFAA_Camera_Ready.pdf)
 
-Wenfei Fan, Ziyan Han, Weilong Ren*, Ding Wang, Yaoshu Wang, Min Xie, and **Mengyi Yan**, Splitting Tuples of Mismatched Entities⁺, *ACM SIGMOD International Conference on Management of Data (SIGMOD)*, 2024. [Link](https://dl.acm.org/doi/10.1145/3626763)
-
-Haoyi Zhou, Jianxin Li*, Shanghang Ji, Shuai Zhang, **Mengyi Yan**, and Hui Xiong, Expanding the Prediction Capacity in Long Sequence Time-Series Forecasting, *Artificial Intelligence*, 2023. [Link](https://doi.org/10.1016/j.artint.2023.103886)
-
-Yaoshu Wang and **Mengyi Yan**, Unsupervised Domain Adaptation for Entity Blocking Leveraging Large Language Models, *IEEE International Conference on Big Data (IEEE BigData)*, 2024. [Link](https://anonymous.4open.science/r/Transfer-ER-Blocking-58F1/UDAEB_bigdata.pdf)
-
-Shuai Zhang, Jianxin Li, Pengtao Xie, Yingchun Zhang, Minglai Shao, Haoyi Zhou, and **Mengyi Yan**, Stacked kernel network, *arXiv preprint arXiv:1711.09219*, 2017. [Link](https://arxiv.org/pdf/1711.09219)
+#### Full Version is available at Publication page above.
 
 # Research Interests
 My research focuses on on Database, Data Quality, Data Cleaning, and AI4DB with LLM, with publications in SIGMOD, VLDB, KDD, DASFAA, EMNLP, etc. A brief summary of my past work can be found below.

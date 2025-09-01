@@ -112,6 +112,7 @@ Reinforcement Learning,</em> <br />
       <a href="https://github.com/philo-vanguard/Tuple_Splitting">[Code]</a>
       <a href="https://authurlord.github.io/files/Poster/Splitting_Poster.pdf">[Poster]</a>
       <a href="https://philo-vanguard.github.io/files/slides/Tuple-Splitting-SIGMOD24.pptx">[Slide]</a>
+    </p>
   </li>
 </ul>
 
@@ -123,6 +124,7 @@ Reinforcement Learning,</em> <br />
       The 12th IEEE International Conference on Big Data (BigData 2024, CCF-C)
       <a href="https://authurlord.github.io/files/Conference/UEADB_BigData.pdf">[Paper]</a>
       <a href="https://github.com/authurlord/Transfer-ER-Blocking">[Code]</a>
+    </p>
   </li>
 </ul>
 

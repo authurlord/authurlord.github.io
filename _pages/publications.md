@@ -41,8 +41,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
       <em>Towards uncertainty-calibrated structural data enrichment with
 large language model for few-shot entity resolution,</em> <br />
       Frontiers of Computer Science, 2025
-      <a href="https://authurlord.github.io/files/files/Journal/FUSER_FCS.pdf">[Paper]</a>
-      <a href="https://authurlord.github.io/files/files/Poster/FCS-highlight.pdf">[Highlight]</a>
+      <a href="https://authurlord.github.io/files/Journal/FUSER_FCS.pdf">[Paper]</a>
+      <a href="https://authurlord.github.io/files/Poster/FCS-highlight.pdf">[Highlight]</a>
     </p>
   </li>
 </ul>
@@ -68,8 +68,8 @@ Reinforcement Learning,</em> <br />
       <b>Mengyi Yan</b>, Wenfei Fan, Yaoshu Wang, Min Xie*, <br />
       <em>Enriching Relations with Additional Attributes for ER,</em> <br />
       The 50th International Conference on Very Large Data Bases (VLDB 2024)
-      <a href="https://authurlord.github.io/files/files/Conference/ENRICH-VLDB24.pdf">[Paper]</a>
-      <a href="https://authurlord.github.io/files/files/Conference/ENRICH-Full.pdf">[Full Version]</a>
+      <a href="https://authurlord.github.io/files/Conference/ENRICH-VLDB24.pdf">[Paper]</a>
+      <a href="https://authurlord.github.io/files/Conference/ENRICH-Full.pdf">[Full Version]</a>
       <a href="https://github.com/SICS-Fundamental-Research-Center/Enrichment">[Code]</a>
     </p>
   </li>
@@ -87,6 +87,7 @@ Reinforcement Learning,</em> <br />
     </p>
   </li>
 </ul>
+
 <ul>
   <li>
     <p>
@@ -99,6 +100,7 @@ Reinforcement Learning,</em> <br />
     </p>
   </li>
 </ul>
+
 <ul>
   <li>
     <p>
@@ -108,10 +110,11 @@ Reinforcement Learning,</em> <br />
       <a href="https://authurlord.github.io/files/Conference/SPLIT-SIGMOD24.pdf">[Paper]</a>
       <a href="https://github.com/philo-vanguard/Tuple_Splitting">[Code]</a>
       <a href="https://authurlord.github.io/files/Poster/Splitting_Poster.pdf">[Poster]</a>
+      <a href="https://philo-vanguard.github.io/files/slides/Tuple-Splitting-SIGMOD24.pptx">[Slide]</a>
       
-    
   </li>
 </ul>
+
 <ul>
   <li>
     <p>
@@ -120,8 +123,6 @@ Reinforcement Learning,</em> <br />
       The 12th IEEE International Conference on Big Data (BigData 2024)
       <a href="https://authurlord.github.io/files/Conference/UEADB_BigData.pdf">[Paper]</a>
       <a href="https://github.com/authurlord/Transfer-ER-Blocking">[Code]</a>
-      
-   
   </li>
 </ul>
 

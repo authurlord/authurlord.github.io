@@ -1,56 +1,99 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
+excerpt: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap/js/bootstrap.bundle.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+    :root {
+      font-size: 16px; /* 默认16px，改为18px（所有rem单位会按比例缩放） */
+    }
+</style>
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am Mengyi Yan, 
+currently is the assistant Professor at School of Artificial Intelligence, Shandong University.
+In Jun. 2025, I received my Ph.D. degree at [the School of Computer Science and Engineering, Beihang University](https://scse.buaa.edu.cn/) (BUAA), under the supervision of [Prof. Jianxin Li](https://scse.buaa.edu.cn/info/1546/10597.htm). 
+Before that, I received my bachelor degree at [the School of Mathematical Science, Beihang University](https://math.buaa.edu.cn/) (BUAA) in 2017.
+My work focuses on Database, Data Quality, Data Cleaning, and AI4DB with LLM. I welcome collaborations and discussions—feel free to reach out via email.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+<h2 style="color: black;">News</h2>
+<ul style="list-style-type:disc; padding-left: 0; margin-left: 0;height: 400px;overflow: hidden;overflow-y: scroll;"> 
+<li><span class="badge bg-success">AUG 2025</span> Our  <a href="https://authurlord.github.io/files/Conference/PUER_EMNLP.pdf">PUER: Boosting Few-shot Positive-Unlabeled Entity Resolution with Reinforcement Learning</a> conferencepaper was accepted by <b>EMNLP 2025</b> as a finding paper. </li>
+<li><span class="badge bg-success">JUN 2025</span> Our  <a href="https://authurlord.github.io/files/files/Journal/FUSER_FCS.pdf">Towards uncertainty-calibrated structural data enrichment with large language model for few-shot entity resolution</a> journal paper was accepted by <b>Frontiers of Computer Science, 2025</b>. </li>
+<li><span class="badge bg-success">DEC 2024</span> Our  <a href="https://authurlord.github.io/files/Conference/UEADB_BigData.pdf">Unsupervised Domain Adaptation for Entity
+Blocking Leveraging Large Language Models</a> conference paper was accepted by <b>IEEE Big Data, 2024</b>. </li>
+</ul>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+# Selected Publications
+(*Corresponding author. ⁺Alphabetical order.)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**Mengyi Yan**, Wenfei Fan, Yaoshu Wang, and Min Xie*, Enriching Relations with Additional Attributes for ER, *Proceedings of the VLDB Endowment (VLDB)*, 2024. [Link](https://dl.acm.org/doi/10.14778/3681954.3681987)
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+**Mengyi Yan**, Yaoshu Wang*, Yue Wang, Xiaoye Miao, and Jianxin Li, GIDCL: A Graph-Enhanced Interpretable Data Cleaning Framework with Large Language Models, *ACM SIGMOD International Conference on Management of Data (SIGMOD)*, 2025. [Link](https://github.com/SICS-Fundamental-Research-Center/GIDCL/blob/main/supplementary/GIDCL_Revision_v6_appendix.pdf) [Camera-Ready](https://doi.org/10.1145/3698811)
 
-**Markdown generator**
+**Mengyi Yan**, Yaoshu Wang*, Kehan Pang, Min Xie, and Jianxin Li*, Efficient Mixture of Experts based on Large Language Models for Low-Resource Data Preprocessing, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)*, 2024. [Link](https://dl.acm.org/doi/10.1145/3637528.3671873)
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+**Mengyi Yan**, Weilong Ren*, Yaoshu Wang, and Jianxin Li*, A Retrieval-Augmented Framework for Tabular Interpretation with Large Language Model, *Database Systems for Advanced Applications (DASFAA)*, 2024. [Link](https://github.com/SICS-Fundamental-Research-Center/RAFL/blob/master/supplementary/DASFAA_Camera_Ready.pdf)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Wenfei Fan, Ziyan Han, Weilong Ren*, Ding Wang, Yaoshu Wang, Min Xie, and **Mengyi Yan**, Splitting Tuples of Mismatched Entities⁺, *ACM SIGMOD International Conference on Management of Data (SIGMOD)*, 2024. [Link](https://dl.acm.org/doi/10.1145/3626763)
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+Haoyi Zhou, Jianxin Li*, Shanghang Ji, Shuai Zhang, **Mengyi Yan**, and Hui Xiong, Expanding the Prediction Capacity in Long Sequence Time-Series Forecasting, *Artificial Intelligence*, 2023. [Link](https://doi.org/10.1016/j.artint.2023.103886)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Yaoshu Wang and **Mengyi Yan**, Unsupervised Domain Adaptation for Entity Blocking Leveraging Large Language Models, *IEEE International Conference on Big Data (IEEE BigData)*, 2024. [Link](https://anonymous.4open.science/r/Transfer-ER-Blocking-58F1/UDAEB_bigdata.pdf)
+
+Shuai Zhang, Jianxin Li, Pengtao Xie, Yingchun Zhang, Minglai Shao, Haoyi Zhou, and **Mengyi Yan**, Stacked kernel network, *arXiv preprint arXiv:1711.09219*, 2017. [Link](https://arxiv.org/pdf/1711.09219)
+
+# Research Interests
+My research focuses on on Database, Data Quality, Data Cleaning, and AI4DB with LLM, with publications in SIGMOD, VLDB, KDD, DASFAA, EMNLP, etc. A brief summary of my past work can be found below.
+
+
+### Cost-Efficient Data Preprocessing for Data-Centric AI
+
+I have worked on building a high data- and cost-efficient data preprocessing pipeline for LLM, by minimizing labelling and computing cost(most capable on consumer-level hardware with offline LLM) to achieve comparatable results in various data preprocessing scenarios, e.g. Entity Resolution, Tabular Representation Learning and Relation Extraction. Relevant results were published in [[KDD'24](https://authurlord.github.io/files/Conference/MELD_KDD24.pdf), [DASFAA'24](https://authurlord.github.io/files/Conference/DASFAA_Camera_Ready.pdf), [BigData'24](https://authurlord.github.io/files/Conference/UEADB_BigData.pdf) and [EMNLP'25](https://authurlord.github.io/files/Conference/PUER_EMNLP.pdf)].
+
+### Data Cleaning
+I have worked on improving the performance of data cleaning systems, by leveraging knowledge-enhanced approaches, e.g. LLM-based agent, Knowledge Graph.  Relevant results were published in [[SIGMOD'25](https://authurlord.github.io/files/Conference/GIDCL-SIGMOD25.pdf), [SIGMOD'24](https://authurlord.github.io/files/Conference/SPLIT-SIGMOD24.pdf), [VLDB'24](https://authurlord.github.io/files/Conference/ENRICH-VLDB24.pdf)]
+
+### Data Evaluation and Synthesis
+My research focuses on evaluating and optimizing synthetic data for Large Language Models (LLMs). By applying a suite of machine learning tools (e.g.  Uncertainty Quantification, Influence Functions, and Submodular Optimization), I assess the redundancy and value of data assets throughout the pre-training, fine-tuning, and domain-specific adaptation stages. The primary goal is to determine the optimal composition of training datasets for various specialized tasks, thereby maximizing model performance and training efficiency. Relevant results were published in [[FCS'25](https://authurlord.github.io/files/files/Journal/FUSER_FCS.pdf), [AIJ'23](https://doi.org/10.1016/j.artint.2023.103886) and [arxiv](https://arxiv.org/pdf/1711.09219)].
+
+
+
+
+
+<!--
+# News
+* (2024/11) Our [GPU-Accelerated Graph Cleaning with a Single Machine](https://hsiaoko.github.io/files/paper/miniclean_paper.pdf) paper was accepted to **SIGMOD 2025**.
+* (2024/11) Our [A Single Machine System for Querying Big Graphs with PRAM](https://hsiaoko.github.io/files/paper/planar_paper.pdf) paper was accepted to **VLDB 2025**.
+* (2024/10) Our [Deep Learning Service for Efficient Data Distribution Aware Sorting](https://hsiaoko.github.io/files/paper/NN-sort_paper.pdf) paper was accepted to **BigData 2024**.
+* (2024/10) Our [HyperBlocker: Accelerating Rule-based Blocking in Entity Resolution using GPUs](https://hsiaoko.github.io/files/paper/HyperBlocker_full_paper.pdf) paper was accepted to **VLDB 2025**.
+* (2023/04) Our [MiniGraph: Querying Big Graphs with a Single Machine](https://hsiaoko.github.io/files/paper/MiniGraph_full_paper.pdf) paper was accepted to **VLDB 2023**.
+* (2022/02) Our [Deep and Collective Entity Resolution in Parallel](https://hsiaoko.github.io/files/paper/PER_paper.pdf) paper was accepted to **ICDE 2022**.
+* (2021/09) I joined [Shenzhen Institute of Computing Science](https://en.sics.ac.cn) (SICS) as a research intern.
+* (2021/07) Our [DLB: Deep Learning Based Load Balancing](https://hsiaoko.github.io/files/paper/DLB_paper.pdf) paper was accepted to **CLOUD 2021**.
+* 
+# Talks
+* "MiniGraph: Querying Big Graphs with a Single Machine"
+  * Great Bay Area Digital Tech Workshop, June 2023
+  * VLDB conference, September 2023
+* "DLB: Deep Learning Based Load Balancing"
+  * IEEE CLOUD conference, September 2021
+
+
+# Professional Services
+### External Reviewer
+* ICDE'24, ICDE'25
+
+<br/><br/>
+-->
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=230&t=tt&d=eHHOFbP732DR-cMe1ytaYJxII5gJ_ocpixMhAWlufLU&co=ffffff&ct=0a0909&cmn=00fff0&cmo=f3cefc'></script>

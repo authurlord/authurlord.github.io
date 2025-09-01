@@ -22,7 +22,7 @@ repository               : "authurlord.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Mengyi Yan 晏梦懿"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor at School of Artificial Intelligence, Shandong University"

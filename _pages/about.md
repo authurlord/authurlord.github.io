@@ -20,16 +20,33 @@ redirect_from:
 
 I am Mengyi Yan, 
 currently is the assistant Professor at School of Artificial Intelligence, Shandong University.
-In Jun. 2025, I received my Ph.D. degree at [the School of Computer Science and Engineering, Beihang University](https://scse.buaa.edu.cn/) (BUAA), under the supervision of [Prof. Jianxin Li](https://scse.buaa.edu.cn/info/1546/10597.htm). 
-Before that, I received my bachelor degree at [the School of Mathematical Science, Beihang University](https://math.buaa.edu.cn/) (BUAA) in 2017.
-My work focuses on Database, Data Quality, Data Cleaning, and AI4DB with LLM. I welcome collaborations and discussions—feel free to reach out via email yanmy@sdu.edu.cn; yanmy1008@buaa.edu.cn; or yanmy1008@gmail.com.
+In Jun. 2025, I received my Ph.D. degree at [the School of Computer Science and Engineering, Beihang University](https://scse.buaa.edu.cn/) (BUAA), under the supervision of [Prof. Jianxin Li](https://scse.buaa.edu.cn/info/1546/10597.htm).
+
+Before that, I received my bachelor degree at [the School of Mathematical Science, Beihang University](https://math.buaa.edu.cn/) (BUAA).
+
+My work focuses on Database, Data Quality, Data Cleaning, and AI4DB with LLM. 
+
+I am actively seeking self-motivated Master students(MSC)/Research Assistants(RA) in AI. 
+The research topics mainly include but are not limited to the following: 
+- [Data-centric AI for database](https://arxiv.org/pdf/2505.18458?)
+- [Data- and cost-efficient computing](https://arxiv.org/pdf/2506.02153?)
+- Machine learning theory for [data quality improvement](https://arxiv.org/pdf/2402.05123).
+
+Feel free to reach out via email yanmy@sdu.edu.cn; yanmy1008@buaa.edu.cn; or yanmy1008@gmail.com.
 
 
 <h2 style="color: black;">News</h2>
 <ul style="list-style-type:disc; padding-left: 0; margin-left: 0;height: 400px;overflow: hidden;overflow-y: scroll;"> 
 <li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">AUG 2025</span> Our  <a href="https://authurlord.github.io/files/Conference/PUER_EMNLP.pdf">PUER: Boosting Few-shot Positive-Unlabeled Entity Resolution with Reinforcement Learning</a> paper was accepted to <b>EMNLP 2025</b>. </li>
+<li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">Jul 2025</span> I joined <a href="https://ai.sdu.edu.cn">School of Artificial Intelligence, Shandong University</a> (SDU) as an assitant professor. </li>
 <li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">JUN 2025</span> Our  <a href="https://authurlord.github.io/files/Journal/FUSER_FCS.pdf">Towards uncertainty-calibrated structural data enrichment with large language model for few-shot entity resolution</a> paper was accepted to <b>Frontiers of Computer Science, 2025</b>. </li>
 <li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">DEC 2024</span> Our  <a href="https://authurlord.github.io/files/Conference/UEADB_BigData.pdf">Unsupervised Domain Adaptation for Entity Blocking Leveraging Large Language Models</a> paper was accepted to <b>IEEE Big Data 2024</b>. </li>
+<li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">NOV 2024</span> Our  <a href="https://authurlord.github.io/files/Conference/GIDCL-SIGMOD25.pdf">GIDCL: A Graph-Enhanced Interpretable Data Cleaning Framework with Large Language Models</a> paper was accepted to <b>SIGMOD 2025</b>. </li>
+<li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">AUG 2024</span> Our  <a href="https://authurlord.github.io/files/Conference/MELD_KDD24.pdf">Efficient Mixture of Experts based on Large Language Models for Low-Resource Data Preprocessing</a> paper was accepted to <b>KDD 2024</b> as oral paper. </li>
+<li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">JUN 2024</span> Our  <a href="https://authurlord.github.io/files/Conference/ENRICH-VLDB24.pdf">Enriching Relations with Additional Attributes for ER</a> paper was accepted to <b>VLDB 2024</b> </li>
+<li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">MAR 2024</span> Our  <a href="https://authurlord.github.io/files/Conference/DASFAA_Camera_Ready.pdf">A Retrieval-Augmented Framework for Tabular Interpretation with Large Language Model</a> paper was accepted to <b>DASFAA 2024</b>.</li>
+<li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">OCT 2023</span> Our  <a href="ttps://authurlord.github.io/files/Conference/SPLIT-SIGMOD24.pdf">Splitting Tuples of Mismatched Entities</a> paper was accepted to <b>SIGMOD 2024</b>.</li>
+<li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">Dec 2021</span> I joined <a href="https://en.sics.ac.cn">Shenzhen Institute of Computing Science</a> (SICS) as a research intern. </li>
 </ul>
 
 # Selected Publications
@@ -83,10 +100,14 @@ My research focuses on evaluating and optimizing synthetic data for Large Langua
 
 
 # Professional Services
-### External Reviewer
-* ICDE'24, ICDE'25
+
 
 <br/><br/>
 -->
+# Talks
+MELD: Efficient Mixture of Experts based on LLM for Low-Resource Data Preprocessing
+  * KDD conference, August 2023, Barcelona, Spain
+# External Reviewer
+KDD, NIPS, NeurIPS, ICLR, AAAI, ICDE, etc
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=230&t=tt&d=eHHOFbP732DR-cMe1ytaYJxII5gJ_ocpixMhAWlufLU&co=ffffff&ct=0a0909&cmn=00fff0&cmo=f3cefc'></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=IIeiKN1u2zOsBZQW8arVO6mxmIYr2RYzS4qPg0B1Yvs&cl=ffffff&w=a"></script>

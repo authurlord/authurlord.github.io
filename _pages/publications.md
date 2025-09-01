@@ -25,7 +25,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
     <p>
       <b>Mengyi Yan</b>, Yaoshu Wang*, Yue Wang, Xiaoye Miao, Jianxin Li, <br />
       <em>GIDCL: A Graph-Enhanced Interpretable Data Cleaning Framework with Large Language Models,</em> <br />
-      The 2025 ACM Conference on Management of Data (SIGMOD 2025)
+      The 2025 ACM Conference on Management of Data (SIGMOD 2025, CCF-A)
       <a href="https://github.com/SICS-Fundamental-Research-Center/GIDCL/blob/main/supplementary/GIDCL_Revision_v6_appendix.pdf">[Full Version]</a>
       <a href="https://authurlord.github.io/files/Conference/GIDCL-SIGMOD25.pdf">[Camera-Ready]</a>
       <a href="https://github.com/SICS-Fundamental-Research-Center/GIDCL/tree/Pipeline">[Code]</a>
@@ -40,7 +40,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
       <b>Mengyi Yan</b>, Yaoshu Wang, Xiaohan Jiang, Haoyi Zhou, Jianxin Li*, <br />
       <em>Towards uncertainty-calibrated structural data enrichment with
 large language model for few-shot entity resolution,</em> <br />
-      Frontiers of Computer Science, 2025
+      Frontiers of Computer Science, 2025 (IF=3.4, JCR Q1)
       <a href="https://authurlord.github.io/files/Journal/FUSER_FCS.pdf">[Paper]</a>
       <a href="https://authurlord.github.io/files/Poster/FCS-highlight.pdf">[Highlight]</a>
     </p>
@@ -53,7 +53,7 @@ large language model for few-shot entity resolution,</em> <br />
       Yaoshu Wang, <b>Mengyi Yan*</b>, Wei Wang <br />
       <em>PUER: Boosting Few-shot Positive-Unlabeled Entity Resolution with
 Reinforcement Learning,</em> <br />
-      EMNLP 2025(Finding Paper)
+      EMNLP 2025(Finding Paper, CCF-B)
       <a href="https://authurlord.github.io/files/Conference/PUER_EMNLP.pdf">[Paper]</a>
       <a href="https://authurlord.github.io/files/Conference/PUER_Supp.pdf">[Supplementary]</a>
       <a href="https://anonymous.4open.science/r/PUER-CB71">[Code]</a>
@@ -67,19 +67,20 @@ Reinforcement Learning,</em> <br />
     <p>
       <b>Mengyi Yan</b>, Wenfei Fan, Yaoshu Wang, Min Xie*, <br />
       <em>Enriching Relations with Additional Attributes for ER,</em> <br />
-      The 50th International Conference on Very Large Data Bases (VLDB 2024)
+      The 50th International Conference on Very Large Data Bases (VLDB 2024, CCF-A)
       <a href="https://authurlord.github.io/files/Conference/ENRICH-VLDB24.pdf">[Paper]</a>
       <a href="https://authurlord.github.io/files/Conference/ENRICH-Full.pdf">[Full Version]</a>
       <a href="https://github.com/SICS-Fundamental-Research-Center/Enrichment">[Code]</a>
     </p>
   </li>
 </ul>
+
 <ul>
   <li>
     <p>
       <b>Mengyi Yan</b>, Yaoshu Wang*, Kehan Pang, Min Xie, Jianxin Li*, <br />
       <em>Efficient Mixture of Experts based on Large Language Models for Low-Resource Data Preprocessing,</em> <br />
-      The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024)
+      The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024, CCF-A)
       <a href="https://authurlord.github.io/files/Conference/MELD_KDD24.pdf">[Paper]</a>
       <a href="http://github.com/authurlord/MELD">[Code]</a>
       <a href="https://authurlord.github.io/files/Poster/MELD_Poster.pdf">[Poster]</a>
@@ -93,7 +94,7 @@ Reinforcement Learning,</em> <br />
     <p>
       <b>Mengyi Yan</b>, Weilong Ren*, Yaoshu Wang, Jianxin Li*, <br />
       <em>A Retrieval-Augmented Framework for Tabular Interpretation with Large Language Model,</em> <br />
-      The 29th International Conference on Database Systems for Advanced Applications (DASFAA 2024)
+      The 29th International Conference on Database Systems for Advanced Applications (DASFAA 2024, CCF-B)
       <a href="https://authurlord.github.io/files/Conference/DASFAA_Camera_Ready.pdf">[Paper]</a>
       <a href="https://authurlord.github.io/files/Poster/RAFL_poster.pdf">[Poster]</a>
       <a href="https://authurlord.github.io/files/Poster/RAFL_Slide.pdf">[Slide]</a>
@@ -106,12 +107,11 @@ Reinforcement Learning,</em> <br />
     <p>
       Wenfei Fan, Ziyan Han, Weilong Ren*, Ding Wang, Yaoshu Wang, Min Xie, <b>Mengyi Yan</b>, <br />
       <em>Splitting Tuples of Mismatched Entities+,</em> <br />
-      The 2024 ACM Conference on Management of Data (SIGMOD 2024)
+      The 2024 ACM Conference on Management of Data (SIGMOD 2024, CCF-A)
       <a href="https://authurlord.github.io/files/Conference/SPLIT-SIGMOD24.pdf">[Paper]</a>
       <a href="https://github.com/philo-vanguard/Tuple_Splitting">[Code]</a>
       <a href="https://authurlord.github.io/files/Poster/Splitting_Poster.pdf">[Poster]</a>
       <a href="https://philo-vanguard.github.io/files/slides/Tuple-Splitting-SIGMOD24.pptx">[Slide]</a>
-      
   </li>
 </ul>
 
@@ -120,7 +120,7 @@ Reinforcement Learning,</em> <br />
     <p>
       Yaoshu Wang, <b>Mengyi Yan</b>, <br />
       <em>Unsupervised Domain Adaptation for Entity Blocking Leveraging Large Language Models,</em> <br />
-      The 12th IEEE International Conference on Big Data (BigData 2024)
+      The 12th IEEE International Conference on Big Data (BigData 2024, CCF-C)
       <a href="https://authurlord.github.io/files/Conference/UEADB_BigData.pdf">[Paper]</a>
       <a href="https://github.com/authurlord/Transfer-ER-Blocking">[Code]</a>
   </li>
@@ -132,7 +132,7 @@ Reinforcement Learning,</em> <br />
     <p>
       Haoyi Zhou, Jianxin Li*, Shanghang Ji, Shuai Zhang, <b>Mengyi Yan</b>, Hui Xiong, <br />
       <em>Expanding the Prediction Capacity in Long Sequence Time-Series Forecasting,</em><br />
-      Artificial Intelligence Journal
+      Artificial Intelligence Journal(IF=4.6, CCF-A)
       <a href="https://doi.org/10.101j.artint.2023.103886">[Paper]</a>
     </p>
   </li>

@@ -33,7 +33,7 @@ My work focuses on Database, Data Quality, Data Cleaning, and AI4DB with LLM. I 
 </ul>
 
 # Selected Publications
-(*Corresponding author. ⁺Alphabetical order.)
+(*:Corresponding author)
 
 **Mengyi Yan**, Wenfei Fan, Yaoshu Wang, and Min Xie*, Enriching Relations with Additional Attributes for ER, *Proceedings of the VLDB Endowment (VLDB)*, 2024. [Link](https://dl.acm.org/doi/10.14778/3681954.3681987)
 

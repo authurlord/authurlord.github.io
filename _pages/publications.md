@@ -54,9 +54,9 @@ large language model for few-shot entity resolution,</em> <br />
       <em>PUER: Boosting Few-shot Positive-Unlabeled Entity Resolution with
 Reinforcement Learning,</em> <br />
       EMNLP 2025(Finding Paper, CCF-B)
-      <a href="https://authurlord.github.io/files/Conference/PUER_EMNLP.pdf">[Paper]</a>
+      <a href="https://authurlord.github.io/files/Conference/PUER_EMNLP_Camera_Ready.pdf">[Paper]</a>
       <a href="https://authurlord.github.io/files/Conference/PUER_Supp.pdf">[Supplementary]</a>
-      <a href="https://anonymous.4open.science/r/PUER-CB71">[Code]</a>
+      <a href="https://github.com/authurlord/PUER">[Code]</a>
     </p>
   </li>
 </ul>

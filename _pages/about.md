@@ -37,6 +37,7 @@ Feel free to reach out via email yanmy@sdu.edu.cn; yanmy1008@buaa.edu.cn; or yan
 
 <h2 style="color: black;">News</h2>
 <ul style="list-style-type:disc; padding-left: 0; margin-left: 0;height: 400px;overflow: hidden;overflow-y: scroll;"> 
+<li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">FEB 2026</span> Our <a href="https://github.com/authurlord/SPARQ">SPARQ: A Cost-Efficient Framework for Offline Table Question Answering via Adaptive Routing</a> paper was accepted to <b>ICDE 2026</b>. </li>
 <li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">AUG 2025</span> Our  <a href="https://authurlord.github.io/files/Conference/PUER_EMNLP_Camera_Ready.pdf">PUER: Boosting Few-shot Positive-Unlabeled Entity Resolution with Reinforcement Learning</a> paper was accepted to <b>EMNLP 2025</b>. </li>
 <li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">Jul 2025</span> I joined <a href="https://ai.sdu.edu.cn">School of Artificial Intelligence, Shandong University</a> (SDU) as an assitant professor. </li>
 <li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">JUN 2025</span> Our  <a href="https://authurlord.github.io/files/Journal/FUSER_FCS.pdf">Towards uncertainty-calibrated structural data enrichment with large language model for few-shot entity resolution</a> paper was accepted to <b>Frontiers of Computer Science, 2025</b>. </li>
@@ -51,6 +52,8 @@ Feel free to reach out via email yanmy@sdu.edu.cn; yanmy1008@buaa.edu.cn; or yan
 
 # Selected Publications
 (*:Corresponding author)
+
+Yang Liu, **Mengyi Yan**, Jiao Xue, Weilong Ren, Yutong Ye, Haoyi Zhou, Jianxin Li, and Zhumin Chen, SPARQ: A Cost-Efficient Framework for Offline Table Question Answering via Adaptive Routing, *IEEE International Conference on Data Engineering (ICDE)*, 2026. [Link](https://github.com/authurlord/SPARQ)
 
 **Mengyi Yan**, Wenfei Fan, Yaoshu Wang, and Min Xie*, Enriching Relations with Additional Attributes for ER, *Proceedings of the VLDB Endowment (VLDB)*, 2024. [Link](https://dl.acm.org/doi/10.14778/3681954.3681987)
 

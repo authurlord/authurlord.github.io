@@ -13,6 +13,19 @@
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  // Default to dark mode for first-time visitors; preserve explicit user choice from localStorage.
+  (function () {
+    try {
+      var saved = localStorage.getItem('theme');
+      if (saved !== 'light' && saved !== 'dark' && saved !== 'system') {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      } else if (saved === 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      }
+    } catch (e) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  })();
 </script>
 
 <!-- For all browsers -->

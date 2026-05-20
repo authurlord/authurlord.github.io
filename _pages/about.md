@@ -26,12 +26,6 @@ Before that, I received my bachelor degree at [the School of Mathematical Scienc
 
 My work focuses on Database, Data Quality, Data Cleaning, and AI4DB with LLM. 
 
-I am actively seeking self-motivated Master students(MSC)/Research Assistants(RA) in AI. 
-The research topics mainly include but are not limited to the following: 
-- [Data-centric AI for database](https://arxiv.org/pdf/2505.18458?)
-- [Data- and cost-efficient computing](https://arxiv.org/pdf/2506.02153?)
-- Machine learning theory for [data quality improvement](https://arxiv.org/pdf/2402.05123).
-
 Feel free to reach out via email yanmy@sdu.edu.cn; yanmy1008@buaa.edu.cn; or yanmy1008@gmail.com.
 
 
@@ -47,7 +41,7 @@ Feel free to reach out via email yanmy@sdu.edu.cn; yanmy1008@buaa.edu.cn; or yan
 <li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">AUG 2024</span> Our  <a href="https://authurlord.github.io/files/Conference/MELD_KDD24.pdf">Efficient Mixture of Experts based on Large Language Models for Low-Resource Data Preprocessing</a> paper was accepted to <b>KDD 2024</b> as oral paper. </li>
 <li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">JUN 2024</span> Our  <a href="https://authurlord.github.io/files/Conference/ENRICH-VLDB24.pdf">Enriching Relations with Additional Attributes for ER</a> paper was accepted to <b>VLDB 2024</b> </li>
 <li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">MAR 2024</span> Our  <a href="https://authurlord.github.io/files/Conference/DASFAA_Camera_Ready.pdf">A Retrieval-Augmented Framework for Tabular Interpretation with Large Language Model</a> paper was accepted to <b>DASFAA 2024</b>.</li>
-<li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">OCT 2023</span> Our  <a href="ttps://authurlord.github.io/files/Conference/SPLIT-SIGMOD24.pdf">Splitting Tuples of Mismatched Entities</a> paper was accepted to <b>SIGMOD 2024</b>.</li>
+<li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">OCT 2023</span> Our  <a href="https://authurlord.github.io/files/Conference/SPLIT-SIGMOD24.pdf">Splitting Tuples of Mismatched Entities</a> paper was accepted to <b>SIGMOD 2024</b>.</li>
 <li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">Dec 2021</span> I joined <a href="https://en.sics.ac.cn">Shenzhen Institute of Computing Science</a> (SICS) as a research intern. </li>
 </ul>
 

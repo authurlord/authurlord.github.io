@@ -19,6 +19,29 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 
 
+### 2026
+<ul>
+  <li>
+    <p>
+      <b>Mengyi Yan</b>, Yaoshu Wang, Guangyi Zhang, Kehan Pang, Haoyi Zhou*, <br />
+      <em>Accelerating Influence Function Estimation for Large Language Models: A Practical Design,</em> <br />
+      The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026, CCF-A)
+    </p>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <p>
+      Yang Liu, <b>Mengyi Yan*</b>, Jiao Xue, Weilong Ren, Yutong Ye, Haoyi Zhou, Jianxin Li*, Zhumin Chen, <br />
+      <em>SPARQ: A Cost-Efficient Framework for Offline Table Question Answering via Adaptive Routing,</em> <br />
+      The 42nd IEEE International Conference on Data Engineering (ICDE 2026, CCF-A)
+      <a href="https://authurlord.github.io/files/Conference/SPARQ_Camera_Ready.pdf">[Paper]</a>
+      <a href="https://github.com/authurlord/SPARQ">[Code]</a>
+    </p>
+  </li>
+</ul>
+
 ### 2025
 <ul>
   <li>

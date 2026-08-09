@@ -25,7 +25,7 @@ lang: zh
 
 <h2 style="color: black;">最新动态</h2>
 <ul style="list-style-type:disc; padding-left: 0; margin-left: 0;height: 400px;overflow: hidden;overflow-y: scroll;"> 
-<li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">2026 年 5 月</span> 我们的论文 Accelerating Influence Function Estimation for Large Language Models: A Practical Design 被 <b>KDD 2026</b> 录用。 </li>
+<li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">2026 年 5 月</span> 我们的论文 <a href="https://dl.acm.org/doi/10.1145/3770855.3817953">Accelerating Influence Function Estimation for Large Language Models: A Practical Design</a> 被 <b>KDD 2026</b> 录用。[<a href="https://github.com/authurlord/StructInf-Release">代码</a>] </li>
 <li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">2026 年 2 月</span> 我们的论文 <a href="https://authurlord.github.io/files/Conference/SPARQ_Camera_Ready.pdf">SPARQ: A Cost-Efficient Framework for Offline Table Question Answering via Adaptive Routing</a> 被 <b>ICDE 2026</b> 录用。 </li>
 <li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">2025 年 8 月</span> 我们的论文 <a href="https://authurlord.github.io/files/Conference/PUER_EMNLP_Camera_Ready.pdf">PUER: Boosting Few-shot Positive-Unlabeled Entity Resolution with Reinforcement Learning</a> 被 <b>EMNLP 2025</b> 录用。 </li>
 <li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">2025 年 7 月</span> 我入职<a href="https://ai.sdu.edu.cn">山东大学人工智能学院</a>（SDU），任助理教授。 </li>
@@ -42,7 +42,7 @@ lang: zh
 # 代表性论文
 （\*：通讯作者）
 
-**Mengyi Yan**, Yaoshu Wang, Guangyi Zhang, Kehan Pang, Haoyi Zhou\*，Accelerating Influence Function Estimation for Large Language Models: A Practical Design，*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)*，2026.
+**Mengyi Yan**, Yaoshu Wang, Guangyi Zhang, Kehan Pang, Haoyi Zhou\*，Accelerating Influence Function Estimation for Large Language Models: A Practical Design，*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)*，2026. [论文](https://dl.acm.org/doi/10.1145/3770855.3817953) [代码](https://github.com/authurlord/StructInf-Release)
 
 Yang Liu, **Mengyi Yan**\*, Jiao Xue, Weilong Ren, Yutong Ye, Haoyi Zhou, Jianxin Li\*, Zhumin Chen，SPARQ: A Cost-Efficient Framework for Offline Table Question Answering via Adaptive Routing，*IEEE International Conference on Data Engineering (ICDE)*，2026. [Paper](https://authurlord.github.io/files/Conference/SPARQ_Camera_Ready.pdf) [Code](https://github.com/authurlord/SPARQ)
 
@@ -68,7 +68,7 @@ Yang Liu, **Mengyi Yan**\*, Jiao Xue, Weilong Ren, Yutong Ye, Haoyi Zhou, Jianxi
 我研究如何借助知识增强的方法（如基于 LLM 的智能体、知识图谱）提升数据清洗系统的性能，相关成果发表于 [[SIGMOD'25](https://authurlord.github.io/files/Conference/GIDCL-SIGMOD25.pdf)、[SIGMOD'24](https://authurlord.github.io/files/Conference/SPLIT-SIGMOD24.pdf)、[VLDB'24](https://authurlord.github.io/files/Conference/ENRICH-VLDB24.pdf)]。
 
 ### 面向大语言模型的数据评估、影响估计与合成
-我研究如何评估并优化用于训练大语言模型（LLM）的数据：综合运用不确定性量化（Uncertainty Quantification）、影响函数（Influence Function）、次模优化（Submodular Optimization）等工具，在预训练、微调以及特定领域适配等阶段衡量数据的冗余度与价值。其中一个重点是让影响函数式的训练数据归因在现代 LLM 上变得可扩展、可落地，从而指导各类下游任务的训练数据组合，最大化模型表现与训练效率。相关成果发表于 [[KDD'26](#)、[FCS'25](https://authurlord.github.io/files/Journal/FUSER_FCS.pdf)、[AIJ'23](https://doi.org/10.1016/j.artint.2023.103886) 与 [arXiv](https://arxiv.org/pdf/1711.09219)]。
+我研究如何评估并优化用于训练大语言模型（LLM）的数据：综合运用不确定性量化（Uncertainty Quantification）、影响函数（Influence Function）、次模优化（Submodular Optimization）等工具，在预训练、微调以及特定领域适配等阶段衡量数据的冗余度与价值。其中一个重点是让影响函数式的训练数据归因在现代 LLM 上变得可扩展、可落地，从而指导各类下游任务的训练数据组合，最大化模型表现与训练效率。相关成果发表于 [[KDD'26](https://dl.acm.org/doi/10.1145/3770855.3817953)、[FCS'25](https://authurlord.github.io/files/Journal/FUSER_FCS.pdf)、[AIJ'23](https://doi.org/10.1016/j.artint.2023.103886) 与 [arXiv](https://arxiv.org/pdf/1711.09219)]。
 
 
 # 学术报告
@@ -78,3 +78,6 @@ MELD: Efficient Mixture of Experts based on LLM for Low-Resource Data Preprocess
 
 # 同行评审
 KDD、NIPS/NeurIPS、ICLR、AAAI、ICDE 等会议外审。
+
+# 承担课程
+本科生课程：**数据库系统**；研究生课程：**深度学习**。

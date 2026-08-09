@@ -31,7 +31,7 @@ Feel free to reach out via email yanmy@sdu.edu.cn; yanmy1008@buaa.edu.cn; or yan
 
 <h2 style="color: black;">News</h2>
 <ul style="list-style-type:disc; padding-left: 0; margin-left: 0;height: 400px;overflow: hidden;overflow-y: scroll;"> 
-<li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">MAY 2026</span> Our Accelerating Influence Function Estimation for Large Language Models: A Practical Design paper was accepted to <b>KDD 2026</b>. </li>
+<li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">MAY 2026</span> Our <a href="https://dl.acm.org/doi/10.1145/3770855.3817953">Accelerating Influence Function Estimation for Large Language Models: A Practical Design</a> paper was accepted to <b>KDD 2026</b>. [<a href="https://github.com/authurlord/StructInf-Release">Code</a>] </li>
 <li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">FEB 2026</span> Our <a href="https://authurlord.github.io/files/Conference/SPARQ_Camera_Ready.pdf">SPARQ: A Cost-Efficient Framework for Offline Table Question Answering via Adaptive Routing</a> paper was accepted to <b>ICDE 2026</b>. </li>
 <li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">AUG 2025</span> Our  <a href="https://authurlord.github.io/files/Conference/PUER_EMNLP_Camera_Ready.pdf">PUER: Boosting Few-shot Positive-Unlabeled Entity Resolution with Reinforcement Learning</a> paper was accepted to <b>EMNLP 2025</b>. </li>
 <li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">Jul 2025</span> I joined <a href="https://ai.sdu.edu.cn">School of Artificial Intelligence, Shandong University</a> (SDU) as an assitant professor. </li>
@@ -48,7 +48,7 @@ Feel free to reach out via email yanmy@sdu.edu.cn; yanmy1008@buaa.edu.cn; or yan
 # Selected Publications
 (*:Corresponding author)
 
-**Mengyi Yan**, Yaoshu Wang, Guangyi Zhang, Kehan Pang, and Haoyi Zhou\*, Accelerating Influence Function Estimation for Large Language Models: A Practical Design, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)*, 2026.
+**Mengyi Yan**, Yaoshu Wang, Guangyi Zhang, Kehan Pang, and Haoyi Zhou\*, Accelerating Influence Function Estimation for Large Language Models: A Practical Design, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)*, 2026. [Paper](https://dl.acm.org/doi/10.1145/3770855.3817953) [Code](https://github.com/authurlord/StructInf-Release)
 
 Yang Liu, **Mengyi Yan**\*, Jiao Xue, Weilong Ren, Yutong Ye, Haoyi Zhou, Jianxin Li\*, and Zhumin Chen, SPARQ: A Cost-Efficient Framework for Offline Table Question Answering via Adaptive Routing, *IEEE International Conference on Data Engineering (ICDE)*, 2026. [Paper](https://authurlord.github.io/files/Conference/SPARQ_Camera_Ready.pdf) [Code](https://github.com/authurlord/SPARQ)
 
@@ -74,7 +74,7 @@ I have worked on building data- and cost-efficient pipelines on top of LLMs, by 
 I have worked on improving the performance of data cleaning systems, by leveraging knowledge-enhanced approaches, e.g. LLM-based agent, Knowledge Graph.  Relevant results were published in [[SIGMOD'25](https://authurlord.github.io/files/Conference/GIDCL-SIGMOD25.pdf), [SIGMOD'24](https://authurlord.github.io/files/Conference/SPLIT-SIGMOD24.pdf), [VLDB'24](https://authurlord.github.io/files/Conference/ENRICH-VLDB24.pdf)]
 
 ### Data Evaluation, Influence Estimation, and Synthesis for LLMs
-My research focuses on evaluating and optimizing data for Large Language Models (LLMs). By applying a suite of machine learning tools (e.g. Uncertainty Quantification, Influence Functions, and Submodular Optimization), I assess the redundancy and value of data assets throughout the pre-training, fine-tuning, and domain-specific adaptation stages. A particular emphasis is placed on making influence-function-style attribution practical and scalable for modern LLMs, so it can drive the composition of training datasets for specialized tasks and maximize model performance and training efficiency. Relevant results were published in [[KDD'26](#), [FCS'25](https://authurlord.github.io/files/Journal/FUSER_FCS.pdf), [AIJ'23](https://doi.org/10.1016/j.artint.2023.103886) and [arxiv](https://arxiv.org/pdf/1711.09219)].
+My research focuses on evaluating and optimizing data for Large Language Models (LLMs). By applying a suite of machine learning tools (e.g. Uncertainty Quantification, Influence Functions, and Submodular Optimization), I assess the redundancy and value of data assets throughout the pre-training, fine-tuning, and domain-specific adaptation stages. A particular emphasis is placed on making influence-function-style attribution practical and scalable for modern LLMs, so it can drive the composition of training datasets for specialized tasks and maximize model performance and training efficiency. Relevant results were published in [[KDD'26](https://dl.acm.org/doi/10.1145/3770855.3817953), [FCS'25](https://authurlord.github.io/files/Journal/FUSER_FCS.pdf), [AIJ'23](https://doi.org/10.1016/j.artint.2023.103886) and [arxiv](https://arxiv.org/pdf/1711.09219)].
 
 
 
@@ -111,5 +111,8 @@ MELD: Efficient Mixture of Experts based on LLM for Low-Resource Data Preprocess
 
 # External Reviewer
 KDD, NIPS, NeurIPS, ICLR, AAAI, ICDE, etc
+
+# Teaching
+Courses taught: **Database Systems** (undergraduate) and **Deep Learning** (graduate).
 
 <!-- <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=100&t=n&d=IIeiKN1u2zOsBZQW8arVO6mxmIYr2RYzS4qPg0B1Yvs'></script> -->

@@ -25,6 +25,7 @@ lang: zh
 
 <h2 style="color: black;">最新动态</h2>
 <ul style="list-style-type:disc; padding-left: 0; margin-left: 0;height: 400px;overflow: hidden;overflow-y: scroll;"> 
+<li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">2026 年 8 月</span> 我们的论文 When the Bottleneck Shifts: Diagnosing and Closing Information Gaps in Interactive Text-to-SQL 被 <b>EMNLP 2026 Main Conference</b> 录用。 </li>
 <li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">2026 年 5 月</span> 我们的论文 <a href="https://dl.acm.org/doi/10.1145/3770855.3817953">Accelerating Influence Function Estimation for Large Language Models: A Practical Design</a> 被 <b>KDD 2026</b> 录用。[<a href="https://github.com/authurlord/StructInf-Release">代码</a>] </li>
 <li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">2026 年 2 月</span> 我们的论文 <a href="https://authurlord.github.io/files/Conference/SPARQ_Camera_Ready.pdf">SPARQ: A Cost-Efficient Framework for Offline Table Question Answering via Adaptive Routing</a> 被 <b>ICDE 2026</b> 录用。 </li>
 <li><span style="display: inline-block; padding: 0.35em 0.65em; font-size: 0.9em; font-weight: 700; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: 0.375rem; background-color: #198754;">2025 年 8 月</span> 我们的论文 <a href="https://authurlord.github.io/files/Conference/PUER_EMNLP_Camera_Ready.pdf">PUER: Boosting Few-shot Positive-Unlabeled Entity Resolution with Reinforcement Learning</a> 被 <b>EMNLP 2025</b> 录用。 </li>
@@ -41,6 +42,8 @@ lang: zh
 
 # 代表性论文
 （\*：通讯作者）
+
+**Mengyi Yan**, Zhinian Ma, Yue Wang, Yaoshu Wang, Xiaoke Zhu, Zizhe Wang, Haoyi Zhou, Zhumin Chen，When the Bottleneck Shifts: Diagnosing and Closing Information Gaps in Interactive Text-to-SQL，*The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP), Main Conference*，2026.
 
 **Mengyi Yan**, Yaoshu Wang, Guangyi Zhang, Kehan Pang, Haoyi Zhou\*，Accelerating Influence Function Estimation for Large Language Models: A Practical Design，*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)*，2026. [论文](https://dl.acm.org/doi/10.1145/3770855.3817953) [代码](https://github.com/authurlord/StructInf-Release)
 
@@ -62,7 +65,7 @@ Yang Liu, **Mengyi Yan**\*, Jiao Xue, Weilong Ren, Yutong Ye, Haoyi Zhou, Jianxi
 
 ### 面向数据驱动 AI 的低成本数据预处理与推理
 
-我致力于在大语言模型之上构建数据与算力双高效的处理流水线：通过最小化标注与计算开销（在消费级硬件上即可运行离线 LLM），在多种数据预处理与表格推理场景下取得与在线模型相当的效果，覆盖实体解析（Entity Resolution）、表格表示学习（Tabular Representation Learning）、关系抽取（Relation Extraction）与表格问答（Table Question Answering）等任务。相关成果发表于 [[ICDE'26](https://authurlord.github.io/files/Conference/SPARQ_Camera_Ready.pdf)、[KDD'24](https://authurlord.github.io/files/Conference/MELD_KDD24.pdf)、[DASFAA'24](https://authurlord.github.io/files/Conference/DASFAA_Camera_Ready.pdf)、[BigData'24](https://authurlord.github.io/files/Conference/UEADB_BigData.pdf) 与 [EMNLP'25](https://authurlord.github.io/files/Conference/PUER_EMNLP_Camera_Ready.pdf)]。
+我致力于在大语言模型之上构建数据与算力双高效的处理流水线：通过最小化标注与计算开销（在消费级硬件上即可运行离线 LLM），在多种数据预处理与表格推理场景下取得与在线模型相当的效果，覆盖实体解析（Entity Resolution）、表格表示学习（Tabular Representation Learning）、关系抽取（Relation Extraction）与表格问答（Table Question Answering）等任务。相关成果发表于 [EMNLP'26、[ICDE'26](https://authurlord.github.io/files/Conference/SPARQ_Camera_Ready.pdf)、[KDD'24](https://authurlord.github.io/files/Conference/MELD_KDD24.pdf)、[DASFAA'24](https://authurlord.github.io/files/Conference/DASFAA_Camera_Ready.pdf)、[BigData'24](https://authurlord.github.io/files/Conference/UEADB_BigData.pdf) 与 [EMNLP'25](https://authurlord.github.io/files/Conference/PUER_EMNLP_Camera_Ready.pdf)]。
 
 ### 数据清洗
 我研究如何借助知识增强的方法（如基于 LLM 的智能体、知识图谱）提升数据清洗系统的性能，相关成果发表于 [[SIGMOD'25](https://authurlord.github.io/files/Conference/GIDCL-SIGMOD25.pdf)、[SIGMOD'24](https://authurlord.github.io/files/Conference/SPLIT-SIGMOD24.pdf)、[VLDB'24](https://authurlord.github.io/files/Conference/ENRICH-VLDB24.pdf)]。

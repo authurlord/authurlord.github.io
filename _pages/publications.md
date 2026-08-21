@@ -23,6 +23,16 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <ul>
   <li>
     <p>
+      <b>Mengyi Yan</b>, Zhinian Ma, Yue Wang, Yaoshu Wang, Xiaoke Zhu, Zizhe Wang, Haoyi Zhou, Zhumin Chen, <br />
+      <em>When the Bottleneck Shifts: Diagnosing and Closing Information Gaps in Interactive Text-to-SQL,</em> <br />
+      The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026 Main Conference, CCF-B)
+    </p>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <p>
       <b>Mengyi Yan</b>, Yaoshu Wang, Guangyi Zhang, Kehan Pang, Haoyi Zhou*, <br />
       <em>Accelerating Influence Function Estimation for Large Language Models: A Practical Design,</em> <br />
       The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026, CCF-A)
